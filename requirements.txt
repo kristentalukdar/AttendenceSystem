@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+jupyter
+pillow
+opencv-python
+scikit-learn
+streamlit-aggrid
+redis
+

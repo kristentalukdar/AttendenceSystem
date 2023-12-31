@@ -1,0 +1,12 @@
+https://redis.io/commands/
+https://redis.com/
+https://rbook.cloud/
+https://redis.io/docs/clients/python/
+
+
+Useful Links for Insight Face
+website: https://insightface.ai/
+Insightface Github: https://github.com/deepinsight/insightface
+Insightface Buffalo Models: https://github.com/deepinsight/insightface/tree/master/python-package
+
+
